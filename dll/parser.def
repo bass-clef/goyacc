@@ -1,0 +1,3 @@
+LIBRARY parser.dll
+EXPORTS
+goparser	@1
